@@ -1,0 +1,12 @@
+{
+  "name": "api-auth-jwt",
+  "version": "1.0.0",
+  "description": "A Nod.js API authentication with JWT",
+  "main": "index.js",
+  "repository": "git@github.com:DMawi17/api-auth-jwt.git",
+  "author": "DMawi17 <75326045+DMawi17@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
